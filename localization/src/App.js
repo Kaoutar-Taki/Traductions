@@ -51,7 +51,6 @@ function App() {
         <div className="dropdown">
           <button
             className="btn btn-link dropdown-toggle"
-            role="button"
             data-bs-toggle="dropdown"
             aria-expanded="false"
           >
